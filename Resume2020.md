@@ -43,5 +43,5 @@ South Delhi
 
 ​	I am a Backend Developer with over 2.5 years experience in Python and Flask framework. I am looking for an opportunity where I can use this experience, while learning new things and making a move towards Full-Stack development. I am looking for an environment where my skills will be challenged and gaining new skills will be encouraged.
 
-*Resume in MarkDown here*
+[*Resume in MarkDown here*](https://github.com/foss-ninja/resume_2020.git)
 
