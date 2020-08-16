@@ -1,8 +1,7 @@
 # Rohit Bhagat
 **Exploring new challenges**
 Delhi
-[rohitbhagat92@outlook.com](rohitbhagat92@outlook.com)
-Mobile : 9371707626
+Mobile : xxxxxxxxxx
 [LinkedIn](https://www.linkedin.com/in/rohit-bhagat-a06880172/)
 Willing to relocate : Anywhere
 
